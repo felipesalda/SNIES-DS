@@ -11,7 +11,7 @@ In colombia Exists the SNIES (Sistema Nacional de Información de la Educación 
 
 **Current state of the Project:** 
 - [X] Preprocessing and cleaning the information.
-- [ ] Uploading the cleaned data to a Database solution (Public Use).
+- [X] Uploading the cleaned data to a Database solution (Public Use).
 - [X] Publish a Data Visualization Dashboard (On site Use).
-- [ ] Apply data analysis to the cleanned data.
-- [ ] Define further models to apply.
+- [X] Apply data analysis to the cleanned data.
+- [X] Define further models to apply.
